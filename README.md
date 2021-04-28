@@ -11,6 +11,7 @@ The developed backend of an ecommerce website
 * [Questions](#questions)
 * [Contributing](#contributing)
 * [Tests](#tests)
+* [Video](#video)
 * [License](#license)
 
 ## Installation
@@ -30,6 +31,11 @@ Email: jadenrobison8@gmail.com
 
 ## Tests
 Test database using insomniac
+
+## Video
+https://drive.google.com/file/d/1jOoRZl025rPpunu3z1mviahmYIYi5BB6/view
+
+https://drive.google.com/file/d/1dz6K3CICb-7whxfbVcKy9JTg8YHpnMlW/view
 
 ## License
 
